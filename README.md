@@ -1,12 +1,19 @@
-Example of browser-synch with file watcher and proxy for api.
+Example of browser-sync with file watcher and proxy json api to server.
 ---
-Globally install: 
+
+Install globally: 
 
 npm install -g gulp json-server browser-sync
 
-Install: npm install
+Install locally: 
+
+npm install
 
 Run
 ---
+
+Start server:
 json-server json-server/db.json
-gulp-serve
+
+Start client:
+gulp serve
