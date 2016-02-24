@@ -1,5 +1,7 @@
-Example of browser-sync with file watcher and proxy json api to server.
+Simple browser-sync gulp config 
 ---
+
+Example of browser-sync with file watcher and proxy json api to server. I need a way to decople front-end from monolite Spring Boot application that contains java and angulat js code. This is just start....
 
 Install globally: 
 
